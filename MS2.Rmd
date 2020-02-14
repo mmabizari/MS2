@@ -1,0 +1,18 @@
+---
+title: "MS2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Joshua Pan: Dunk on Some Stats
+
+In Joshua Pan’s project “Dunk on Some Stats” he explores data and creates models comparing professional basketball to college basketball. This data piqued my interest because it is similar to the project that I wish to create. The best part of this project is the amount of data he was able to scrape together and use. Not only did he get statistics for the NBA and NCAA spanning back to the ’80s but he also acquired data for 24 Major statistical categories and the 5 different positions in basketball. He was also able to create a model that successfully predicted(80% accuracy) a player's position when transitioning from college basketball to NBA basketball. The only downsides I see with this project is the practicality. This type of data would be useful to NBA front offices seeking players for their teams. The problem with this is that most college players carry over their same position into the league from the NCAA, and NBA scouts can easily analyse a player and ask them what position they will be playing at the next level. Most of the time, especially when transitioning as a rookie into a new team, a player will play whatever position the coach needs them to play.
+
+# Sydney Sorkin: NCAA on Twitter: Does the NCAA tweet about Men’s and Women’s sports differently?.
+
+In Sydney Sorkin’s project “NCAA on Twitter: Does the NCAA tweet about Men’s and Women’s sports differently?.” She explores the social media coverage of the NCAA through tweets. This data is interesting because she compared the post on the NCAA twitter to the amount of promotion the NCAA is giving various sports. She was able to track the data over 5 different twitter accounts and create a model that showed within the peak in media of college sports (between April and July) the twitter accounts were tweeting more about the male teams. This project spotlights the problem in the sports industry that favours men over women. Cons about this data would be the lack of the variety. The NCAA uses multiple platforms to promote sports and limiting this data to Twitter could be a bit misleading. NCAA tweets are also often used to show highlights and relay scores so using it as a metric to relate to promotion could also be misleading. In the end, it is an amazing project but more sources should be added if time permits. 
+
+
